@@ -1,8 +1,8 @@
 <p>Voyons voir <strong>RESUME</strong>.</p>
 
 
-
-<ul>
+<ol>
  <li>Je teste</li> 
 tartenpion 
 </ul>
+</ol>
