@@ -1,8 +1,23 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<!-- 
+      ___            ___                    
+     /|  |          /|  |           ___     
+    |:|  |         |:|  |          /\  \    
+    |:|  |         |:|  |          \:\  \   
+  __|:|__|       __|:|__|           \:\  \  
+ /::::\__\_____ /::::\__\_____  ___  \:\__\ 
+ ~~~~\::::/___/ ~~~~\::::/___/ /\  \ |:|  | 
+     |:|~~|         |:|~~|     \:\  \|:|  | 
+     |:|  |         |:|  |      \:\__|:|__| 
+     |:|__|         |:|__|       \::::/__/  
+     |/__/          |/__/         ~~~~      
+ -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title> Nelly SAIBOU - Accountant / business controller </title>
+    <title>Nelly SAIBOU - Accountant / Business controller</title>
     <link rel="apple-touch-icon" sizes="57x57" href="./apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="./apple-icon-60x60.png">
     <link rel="apple-touch-icon" sizes="72x72" href="./apple-icon-72x72.png">
@@ -70,10 +85,10 @@
         <div id="stars2"></div>
         <div id="stars3"></div>
         <div id="lead-content">
-            <h1>Romain Giovanetti</h1>
+            <h1>Nelly SAIBOU</h1>
             <h2>Full-Stack&nbsp;Designer / Research&nbsp;Engineer</h2>
-            <h3>Currently in 🇺🇸 Princeton, New&nbsp;Jersey<br />
-             V.I.E. (International Intern in a Company)</h3>
+            <h3>Currently in France<br />
+            Wish an V.I.E. (International Intern in a Company)</h3>
             <!-- <a href="#others" class="btn-rounded-white">Download Portfolio & Resume</a> -->
         </div>
         <!-- End #lead-content -->
